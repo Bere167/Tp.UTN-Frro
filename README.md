@@ -1,4 +1,4 @@
-# Sistema de venta para Automoviles Personalizados.
+# Sistema de gestion para una Tienda de informática.
 _Sistema para la materia "Desarrollo de Software"_
 
 INTEGRANTES:
